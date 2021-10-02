@@ -16,5 +16,6 @@ int main(){
     else{
         cout<<"error, invalid data\n";
     }
+    cout<<"hello github!\n";
     return 0;
 }
